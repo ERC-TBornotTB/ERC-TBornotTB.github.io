@@ -3,4 +3,12 @@ layout: "page"
 title: Team Members
 ---
 
-The team members for ERC
+The team members for ERC are:
+
+* Rein
+* Jon
+* Alex
+* Katherine
+* Matt
+* Nabila
+* Nicola
