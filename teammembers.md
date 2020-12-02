@@ -9,6 +9,5 @@ The team members for ERC are:
 * Jon
 * Alex
 * Katherine
-* Matt
 * Nabila
 * Nicola
