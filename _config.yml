@@ -21,7 +21,7 @@
 title: TB or not TB
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-    This website and the results presented is part of the project TBornotTB, which has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Starting Grant, Grant agreement No. 757699)
+    This website and the results presented are part of the project TBornotTB, which has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Starting Grant, Grant agreement No. 757699)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
