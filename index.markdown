@@ -17,9 +17,9 @@ That is why TBornotTB has two main objectives. First to bring together old and n
 Our work so far has shown that around half of individuals who can transmit the disease, do not have, or are not aware of symptoms (which we call ‘subclinical disease’), as illustrated in figure 1. In addition, we have shown how some people recover from their infection without ever getting TB disease or treatment (which we call ‘self-clearance’). Upcoming work will show how, and how many people with subclinical disease progress to disease or regress, and how infectious they are. In times of COVID-19 pandemic, we applied our learning from subclinical tuberculosis to asymptomatic SARS-CoV-2 infections. We re-analysed data from the Diamond Princess outbreak, and showed that over two-thirds of infections were asymptomatic, and may have contributed substantially to ongoing transmission (see figure 2). 
 
 *Figure 1*
-![subclinical prevalence](../images/subclinical-prevalence.png)
+[![subclinical prevalence](../images/subclinical-prevalence.png)](https://doi.org/10.1093/cid/ciaa1402)
 
 *Figure 2*
-![diamond princess](../images/diamond-princess.png)
+[![diamond princess](../images/diamond-princess.png)](https://doi.org/10.7554/eLife.58699)
 
 

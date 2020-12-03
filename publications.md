@@ -83,7 +83,7 @@ Gwenan M Knight, C Finn McQuaid, Peter J Dodd, Rein M G J Houben
 
 Emery, Jon C; Russel, Timothy W; Liu, Yang; Hellewell, Joel; Pearson, Carl AB; Knight, Gwen M; Eggo, Rosalind M; Kucharski, Adam J; Funk, Sebastian; Flasche, Stefan; Houben, Rein M G J
 
-*Elife* DOI: [10.1101/2020.05.07.20093849](https://doi.org/10.1101/2020.05.07.20093849)
+*Elife* DOI: [10.7554/eLife.58699](https://doi.org/10.7554/eLife.58699)
 
 [Repository link](https://elifesciences.org/articles/58699)
 
