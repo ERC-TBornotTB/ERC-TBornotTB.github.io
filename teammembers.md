@@ -13,7 +13,7 @@ Rein has worked on TB for over a decade in various ways, including running TB fi
 ![Jon](../images/Jon-profile.jpg){:height="60px" width ="60px" style="float: left; padding-right:10px" class="img-responsive"}
 Jon is a mathematical modeller with an interest in the natural history of tuberculosis. With research experience in theoretical physics and whole energy systems, Jon focusses on encapsulating advances in our understanding of tuberculosis natural history within mathematical models to better understand the epidemiology of the disease and in turn support policy development.
 
-# Alexandra Richards
+# [Alexandra Richards](http://www.lshtm.ac.uk/aboutus/people/richards.alexandra)
 ![Alex](../images/Alex-profile.jpeg){:height="60px" width ="60px" style="float: left; padding-right:10px" class="img-responsive"}
 Alex is a third year research degree student with an interest in modelling the natural history of tuberculosis with a focus on subclinical disease. Her background is in maths, physics, and epidemiology.
 
