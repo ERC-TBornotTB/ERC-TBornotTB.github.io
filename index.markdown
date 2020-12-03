@@ -7,4 +7,3 @@ layout: home
 
 We are based at the London School of Hygiene and Tropical Medicine
 
-test
