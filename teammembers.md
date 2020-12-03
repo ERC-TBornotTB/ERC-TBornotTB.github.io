@@ -12,7 +12,8 @@ Rein is a TB epidemiologist who applies modelling methods to address questions o
 Jon is a mathematical modeller with an interest in the natural history of tuberculosis. With research experience in theoretical physics and whole energy systems, Jon focusses on encapsulating advances in our understanding of tuberculosis natural history within mathematical models to better understand the epidemiology of the disease and in turn support policy development.
 
 # Alexandra Richards
-![](_images/Alex-profile.jpeg)Alex is a third year research degree student with an interest in modelling the natural history of tuberculosis with a focus on subclinical disease. Her background is in maths, physics, and epidemiology.
+![Alex](../images/Alex-profile.jpeg){:height="72px" width ="72px" style="float: left" class="img-responsive"}
+Alex is a third year research degree student with an interest in modelling the natural history of tuberculosis with a focus on subclinical disease. Her background is in maths, physics, and epidemiology.
 
 # [Katherine Horton](https://www.lshtm.ac.uk/aboutus/people/horton.katherine)
 Katherine is an epidemiologist and mathematical modeller whose current work focuses on the potential and impact of new insights on the natural history of TB. She is also the LSHTM Programme Team Leader and Cross-Consortium Modelling Lead for the LIGHT Consortium, an FCDO-funded research consortium working to better understand and address gender disparities in TB burden and care in sub-Saharan Africa.
