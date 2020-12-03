@@ -28,4 +28,4 @@ Nabila has extensive experience with TB research and policy, and is supporting a
 
 # [Nicola Foster](https://www.lshtm.ac.uk/aboutus/people/foster.nicola)
 ![Nicola](../images/Nicola-profile.jpg){:height="60px" width ="60px" style="float: left; padding-right:10px" class="img-responsive"}
-Nicola is a health economist with experience in TB. She is analysing the impact of socio-economic changes on the burden of TB, to help inform our natural history models.  
+Nicola has a background in public health and health economics. She has experience in designing and implementing mathematical models of patient pathways through TB diagnosis and treatment. Her current work includes the analysis of socio-economic changes in the burden of TB.  
