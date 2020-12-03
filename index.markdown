@@ -5,8 +5,7 @@
 layout: home
 ---
 
-![erc](../images/erc-logo.jpg){:height="200px" width ="200px" style="float: right" class="img-responsive"}
-![lshtm](../images/lshtm-logo.png){:height="200px" width ="200px" style="float: left; padding-right:10px" class="img-responsive"}
+![logos](../images/both-logos.png)
 
 
 TBornotTB is a project that aims to better understand how tuberculosis (TB) develops in individuals and spreads in populations. For a public health threat that has caused over two billion deaths in human history the so-called natural history of TB has remained stubbornly elusive. The classic paradigm of TB natural history typically accounts for two distinct stages of infection and disease, and one-way progression between them. However, data has shown that individuals can actually experience disease across a spectrum intensity, which varies over time. 
