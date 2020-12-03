@@ -22,3 +22,4 @@ Katherine is an epidemiologist and mathematical modeller whose current work focu
 Nabila works primarily with the TIME Model. With an MSc in Control of Infectious Diseases from LSHTM, she is currently working to conduct an impact evaluation for the TIME model to understand how the project facilitates and impacts national and subnational TB policy. Nabila also works to support the National TB Programs of Ethiopia and Nigeria to model interventions in preparation for National Strategic Plans and grant applications.
 
 # [Nicola Foster](https://www.lshtm.ac.uk/aboutus/people/foster.nicola)
+XYZ
