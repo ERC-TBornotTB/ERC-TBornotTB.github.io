@@ -3,7 +3,7 @@ layout: "page"
 title: Team Members
 ---
 
-The team members for ERC are:
+The team members for this project are:
 
 # [Rein Houben](https://www.lshtm.ac.uk/aboutus/people/houben.rein)
 ![Rein](../images/Rein-profile.jpg){:height="60px" width ="60px" style="float: left; padding-right:10px" class="img-responsive"}
