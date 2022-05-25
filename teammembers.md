@@ -21,11 +21,10 @@ Alex is a third year research degree student with an interest in modelling the n
 ![Katherine](../images/Katherine-profile.jpg){:height="60px" width ="60px" style="float: left; padding-right:10px" class="img-responsive"}
 Katherine is an epidemiologist and mathematical modeller whose current work focuses on the potential and impact of new insights on the natural history of TB. She is also the LSHTM Programme Team Leader and Cross-Consortium Modelling Lead for the LIGHT Consortium, an FCDO-funded research consortium working to better understand and address gender disparities in TB burden and care in sub-Saharan Africa.
 
-# [Nabila Shaikh](https://www.lshtm.ac.uk/aboutus/people/shaikh.nabila)
-![Nabila](../images/Nabila-profile.png){:height="60px" width ="60px" style="float: left; padding-right:10px" class="img-responsive"}
-Nabila has extensive experience with TB research and policy, and is supporting a range of projects across the TBornotTB project. 
-
-
 # [Nicola Foster](https://www.lshtm.ac.uk/aboutus/people/foster.nicola)
 ![Nicola](../images/Nicola-profile.jpg){:height="60px" width ="60px" style="float: left; padding-right:10px" class="img-responsive"}
 Nicola has a background in public health and health economics. She has experience in designing and implementing mathematical models of patient pathways through TB diagnosis and treatment. Her current work includes the analysis of socio-economic changes in the burden of TB.  
+
+# [Alvaro Schwalb](https://www.lshtm.ac.uk/aboutus/people/schwalb.alvaro)
+![Nicola](../images/Alvaro-profile.jpg){:height="60px" width ="60px" style="float: left; padding-right:10px" class="img-responsive"}
+Alvaro is a first-year research degree student at LSHTM working on re-evaluating epidemiological metrics of tuberculosis burden. His background is in medicine and epidemiology 
