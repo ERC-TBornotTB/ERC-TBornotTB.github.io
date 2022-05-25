@@ -26,5 +26,5 @@ Katherine is an epidemiologist and mathematical modeller whose current work focu
 Nicola has a background in public health and health economics. She has experience in designing and implementing mathematical models of patient pathways through TB diagnosis and treatment. Her current work includes the analysis of socio-economic changes in the burden of TB.  
 
 # [Alvaro Schwalb](https://www.lshtm.ac.uk/aboutus/people/schwalb.alvaro)
-![Nicola](../images/Alvaro-profile.jpg){:height="60px" width ="60px" style="float: left; padding-right:10px" class="img-responsive"}
+![Alvaro](../images/Alvaro-profile.jpg){:height="60px" width ="60px" style="float: left; padding-right:10px" class="img-responsive"}
 Alvaro is a first-year research degree student at LSHTM working on re-evaluating epidemiological metrics of tuberculosis burden. His background is in medicine and epidemiology 
