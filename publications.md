@@ -171,7 +171,7 @@ A. Schwalb, J. C. Emery, and R. M. G. J. Houben
 
 Bianca Sossen, Alexandra S Richards, Torben Heinsohn, Beatrice Frascella, Federica Balzarini, Aurea Oradini-Alacreu, Anna Odone, Ewelina Rogozinska, Brit Häcker, Frank Cobelens, Katharina Kranzer, Rein M G J Houben†, Hanif Esmail† 
 
-* The Lancet Respiratory Medicine* DOI: [doi.org/10.1016/S2213-2600(23)00097-8](https://doi.org/10.1016/S2213-2600(23)00097-8)
+*The Lancet Respiratory Medicine* DOI: [doi.org/10.1016/S2213-2600(23)00097-8](https://doi.org/10.1016/S2213-2600(23)00097-8)
 
 [Repository link](https://doi.org/10.1016/S2213-2600(23)00097-8)
 
