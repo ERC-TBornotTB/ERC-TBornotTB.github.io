@@ -29,10 +29,10 @@ Nicola has a background in public health and health economics. She has experienc
 ![Alvaro](../images/Alvaro-profile.jpg){:height="60px" width ="60px" style="float: left; padding-right:10px" class="img-responsive"}
 Alvaro is a research fellow and research degree student at LSHTM working on re-evaluating epidemiological metrics of tuberculosis burden. His background is in medicine and epidemiology
 
-# [Nabila Shaikh]
-![Nabila](../images/Nabila-profile.jpg){:height="60px" width ="60px" style="float: left; padding-right:10px" class="img-responsive"}
+# Nabila Shaikh
+![Nabila](../images/Nabila-profile.png){:height="60px" width ="60px" style="float: left; padding-right:10px" class="img-responsive"}
 Nabila was a research assistant at LSHTM, working on supporting TB programmes making policy decisions, and exploring the role of non-symptomatic transmission of pathogens. 
 
-# [Ty McCaffrey]
+# Ty McCaffrey
 ![Ty](../images/ty.jpg){:height="60px" width ="60px" style="float: left; padding-right:10px" class="img-responsive"}
 Ty was a research assistant at LSHTM, focussing on the implications of different disease pathways on the potential impact of current TB care and prevention policies. 
