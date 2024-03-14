@@ -22,3 +22,19 @@ Our work so far has shown that around half of individuals who can transmit the d
 [![diamond princess](../images/diamond-princess.png)](https://doi.org/10.7554/eLife.58699)
 
 
+Building on that experience we then looked at historical and contemporary data. The historical data was from 1905 up to the 1960s (a lot of time in libraries) because in those days there was no treatment. While tragic for the many people who suffered from TB, we could see how TB developed over time, and whether people recovered without treatment. The contemporary data were from prevalence surveys, massive studies where tens of thousands of people are screened for TB, which allow us to see 1) how big the iceberg really is and 2) how much transmission was coming from individuals who had TB, but did not have symptoms.
+
+Together, these data showed that once people are in a specific disease state, they are likely to move around the spectrum, even without treatment (figure 3) and that individuals with so-called subclinical TB (not aware of symptoms) almost certainly contribute to transmission (figure 4). 
+
+*Figure 3*
+[![subclinical_undulation](../images/figure3_undulation.png)](https://doi.org/10.1016/S2214-109X(23)00082-7)
+
+*Figure 4*
+[![subclinical_transmission](../images/figure4_transmission.png)](https://doi.org/10.7554/eLife.82469)
+
+A final step was then to consider the entire spectrum of disease pathways following infection. When putting the data together, we found that only 1 in 10 of individuals who get infected develop TB. The model suggests that while over half of individuals with TB will develop classic clinical disease with symptoms, this is often preceded by a long period of disease (figure 5). 
+
+*Figure 5*
+[![subclinical prevalence](../images/figure5_sankey.jpg)](https://doi.org/10.1073/pnas.2221186120)
+
+With these insights we are now working to explore the implications for TB burden, policies and the potential impact of community-wide screening interventions. These findings are in progress, and will come out over the coming year. 
