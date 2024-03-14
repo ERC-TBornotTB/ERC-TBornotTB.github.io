@@ -123,6 +123,114 @@ Beatrice Frascella, Alexandra S Richards, Bianca Sossen, Jon C Emery, Anna Odone
 
 
 
+**Social determinants of the changing tuberculosis prevalence in Việt Nam: Analysis of population-level cross-sectional studies**
+
+Nicola Foster, Hai V. Nguyen, Nhung V. Nguyen, Hoa B. Nguyen, Edine W. Tiemersma, Frank G. J. Cobelens, Matthew Quaife, and Rein M. G. J. Houben
+
+*PLOS Medicine* DOI: [10.1371/journal.pmed.1003935](https://doi.org/10.1371/journal.pmed.1003935)
+
+[Repository link](https://doi.org/10.1371/journal.pmed.1003935)
+
+
+
+
+**Self-Clearance of Mycobacterium Tuberculosis Infection: Implications for Lifetime Risk and Population at-Risk of Tuberculosis Disease**
+
+Jon C.Emery, Alexandra S. Richards, Katie D. Dale, C. Finn McQuaid, Richard G. White, Justin T. Denholm, and Rein M. G. J. Houben
+
+*Proceedings of the Royal Society. Biological Sciences* DOI: [doi.org/10.1098/rspb.2020.1635](https://doi.org/10.1098/rspb.2020.1635) 
+
+[Repository link](https://doi.org/10.1098/rspb.2020.1635)
+
+
+
+
+**Tuberculosis Prevalence: Beyond the Tip of the Iceberg**
+
+Rein M G J Houben, Hanif Esmail, Frank Cobelens, Caroline M L Williams, and Anna K Coussens
+
+*The Lancet Respiratory Medicine* DOI: [doi.org/10.1016/S2213-2600(22)00184-9](https://doi.org/10.1016/S2213-2600(22)00184-9)
+
+[Repository link](https://doi.org/10.1016/S2213-2600(22)00184-9)
+
+
+
+
+**Use of Chest Radiography Screening for TB: A Re-Evaluation of the Kolín Study**
+
+A. Schwalb, J. C. Emery, and R. M. G. J. Houben
+
+*The International Journal of Tuberculosis and Lung Disease* DOI: [doi.org/10.5588/ijtld.22.0216](https://doi.org/10.5588/ijtld.22.0216)
+
+[Repository link](https://doi.org/10.5588/ijtld.22.0216)
+
+
+
+
+**The Natural History of Untreated Pulmonary Tuberculosis in Adults: A Systematic Review and Meta-Analysis**
+
+Bianca Sossen, Alexandra S Richards, Torben Heinsohn, Beatrice Frascella, Federica Balzarini, Aurea Oradini-Alacreu, Anna Odone, Ewelina Rogozinska, Brit Häcker, Frank Cobelens, Katharina Kranzer, Rein M G J Houben†, Hanif Esmail† 
+
+* The Lancet Respiratory Medicine* DOI: [doi.org/10.1016/S2213-2600(23)00097-8](https://doi.org/10.1016/S2213-2600(23)00097-8)
+
+[Repository link](https://doi.org/10.1016/S2213-2600(23)00097-8)
+
+
+
+
+**Quantifying Progression and Regression across the Spectrum of Pulmonary Tuberculosis: A Data Synthesis Study**
+
+Alexandra S Richards, Bianca Sossen, Jon C Emery, Katherine C Horton, Torben Heinsohn, Beatrice Frascella, Federica Balzarin Aurea Oradini-Alacreu, Brit Häcker, Anna Odone, Nicky McCreesh, Alison D Grant, Katharina Kranzer, Frank Cobelens, Hanif Esmail, Rein M G J Houben 
+
+*The Lancet Global Health* DOI: [doi.org/10.1016/S2214-109X(23)00082-7](https://doi.org/10.1016/S2214-109X(23)00082-7)
+
+[Repository link](https://doi.org/10.1016/S2214-109X(23)00082-7)
+
+
+
+
+**Asymptomatic but Infectious – The Silent Driver of Pathogen Transmission. A Pragmatic Review**
+
+Nabila Shaikh, Pooja Swali, and Rein M. G. J. Houben 
+
+*Epidemics* DOI: [doi.org/10.1016/j.epidem.2023.100704](https://doi.org/10.1016/j.epidem.2023.100704)
+
+[Repository link](https://doi.org/10.1016/j.epidem.2023.100704)
+
+
+
+
+**Reevaluating Progression and Pathways Following Mycobacterium Tuberculosis Infection within the Spectrum of Tuberculosis**
+
+Katherine C. Horton, Alexandra S. Richards, Jon C. Emery, Hanif Esmail, and Rein M. G. J. Houben
+
+*Proceedings of the National Academy of Sciences* DOI: [doi.org/10.1073/pnas.2221186120](https://doi.org/10.1073/pnas.2221186120)
+
+[Repository link](https://doi.org/10.1073/pnas.2221186120)
+
+
+
+
+**Beyond Latent and Active Tuberculosis: A Scoping Review of Conceptual Frameworks**
+
+Syed M. A. Zaidi, Anna K. Coussens, James A. Seddon, Tamara Kredo, Digby Warner, Rein M. G. J. Houben, and Hanif Esmail
+
+*eClinicalMedicine* DOI: [doi.org/10.1016/j.eclinm.2023.102332](https://doi.org/10.1016/j.eclinm.2023.102332)
+
+[Repository link](https://doi.org/10.1016/j.eclinm.2023.102332)
+
+
+
+
+**Estimating the Contribution of Subclinical Tuberculosis Disease to Transmission: An Individual Patient Data Analysis from Prevalence Surveys**
+
+Jon C Emery, Peter J Dodd, Sayera Banu, Beatrice Frascella, Frances L Garden, Katherine C Horton, Shahed Hossain, Irwin Law, Frank van Leth, Guy B Marks, Hoa Binh Nguyen, Hai Viet Nguyen, Ikushi Onozaki, Maria Imelda D Quelapio, Alexandra S Richards, Nabila Shaikh, Edine W Tiemersma, Richard G White, Khalequ Zaman, Frank Cobelens, Rein MGJ Houben  	
+
+*eLife* DOI: [doi.org/10.7554/eLife.82469](https://doi.org/10.7554/eLife.82469)
+
+[Repository link](https://doi.org/10.7554/eLife.82469)
+
+
 
 
 
